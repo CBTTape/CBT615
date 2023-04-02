@@ -1,0 +1,7 @@
+2023-04-03 01:24:42.451405 - Initialized conversion of CBT615
+2023-04-03 01:24:42.850584 - Received CBT.V504.FILE615.PDS from FILE615.XMI 
+2023-04-03 01:24:42.853250 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE615.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:24:42.854223 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE615.PDS, moved to PDS/$$NOTE01
+2023-04-03 01:24:42.855409 - Found @FILE615.txt (text/plain) in CBT.V504.FILE615.PDS, moved to PDS/@FILE615
+2023-04-03 01:24:42.856542 - Found DYNALLOC.txt (text/plain) in CBT.V504.FILE615.PDS, moved to PDS/DYNALLOC
+2023-04-03 01:24:42.858178 - Found ISPFDYN.txt (text/plain) in CBT.V504.FILE615.PDS, moved to PDS/ISPFDYN
